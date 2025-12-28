@@ -1,0 +1,4 @@
+{
+  "LocationConstraint": "REDACTED-REGION",
+  "BucketArn": "arn:aws:s3:::REDACTED-BUCKET"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "governance-baseline-trail",
+  "S3BucketName": "REDACTED-BUCKET",
+  "IncludeGlobalServiceEvents": true,
+  "IsMultiRegionTrail": true,
+  "TrailARN": "REDACTED-ARN",
+  "LogFileValidationEnabled": false,
+  "IsOrganizationTrail": false
+}

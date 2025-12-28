@@ -1,0 +1,11 @@
+{
+  "IsLogging": true,
+  "LatestDeliveryTime": "REDACTED-TIMESTAMP",
+  "StartLoggingTime": "REDACTED-TIMESTAMP",
+  "LatestDeliveryAttemptTime": "REDACTED-TIMESTAMP",
+  "LatestNotificationAttemptTime": "REDACTED-TIMESTAMP",
+  "LatestNotificationAttemptSucceeded": "REDACTED-STATUS",
+  "LatestDeliveryAttemptSucceeded": "REDACTED-STATUS",
+  "TimeLoggingStarted": "REDACTED-TIMESTAMP",
+  "TimeLoggingStopped": "REDACTED-TIMESTAMP"
+}

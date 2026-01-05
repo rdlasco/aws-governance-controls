@@ -1,0 +1,11 @@
+{
+  "Instances": [
+    {
+      "InstanceArn": "REDACTED-INSTANCE-ARN",
+      "IdentityStoreId": "REDACTED-IDENTITY-STORE-ID",
+      "OwnerAccountId": "REDACTED-ACCOUNT",
+      "CreatedDate": "REDACTED-TIMESTAMP",
+      "Status": "ACTIVE"
+    }
+  ]
+}

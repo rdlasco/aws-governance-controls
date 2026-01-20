@@ -29,10 +29,6 @@ The governance folder contains the foundational design artifacts for this enviro
 
 This repository includes formal project management deliverables used to plan, control, and close Phase One of the AWS Cloud Governance Foundation Program. These artifacts are aligned with PMI style practices and are intended to demonstrate execution discipline, scope control, and audit ready documentation.
 
-Location:
-
-- `project-management/`
-
 Included artifacts:
 
 - Project Charter

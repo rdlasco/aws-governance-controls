@@ -16,11 +16,35 @@ Phase One translates that intent into enforceable controls using AWS identity an
 
 Later phases focus on running controls, collecting evidence, and documenting findings the same way an analyst or auditor would expect to see them.
 
+Formal project management artifacts supporting Phase One execution are documented separately.
+
 ## Governance Design
 
-The governance folder contains the foundational design artifacts for this environment.
+The governance folder contains the foundational design artifacts for this environment:
 
 - The Persona Matrix describes how responsibilities are separated between administrators, security oversight, compliance execution, and independent review.
 - The Access Intent Mapping defines what access is intentionally allowed for each role and how often that access should be reviewed.
+
+## Project Management Artifacts
+
+This repository includes formal project management deliverables used to plan, control, and close Phase One of the AWS Cloud Governance Foundation Program. These artifacts are aligned with PMI style practices and are intended to demonstrate execution discipline, scope control, and audit ready documentation.
+
+Location:
+
+- `project-management/`
+
+Included artifacts:
+
+- Project Charter
+- Scope and Guardrails
+- Implementation Plan
+- Risk Register
+- Decision Log
+- Weekly Status Reports
+- Phase Closeout Report
+- Lessons Learned Summary
+- Communications Plan
+- Stakeholder Register
+- Evidence Index Mapping
 
 These documents are treated as living design references. They are not theoretical. They directly drive how access is implemented and how reviews are performed later in the project.

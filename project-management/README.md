@@ -1,6 +1,6 @@
 # Project Management Artifacts
 
-This directory contains formal project management deliverables supporting Phase One of the AWS Cloud Governance Program.
+This directory contains formal project management deliverables supporting Phase One of the AWS Cloud Governance Foundation Program.
 
 These artifacts demonstrate real-world project coordination, scope control, and governance oversight practices. They are not academic templates and reflect execution within a constrained, audit-aware environment.
 
